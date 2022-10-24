@@ -1,0 +1,6 @@
+# lg c1 ads
+127.0.0.1 ngfts.lge.com
+127.0.0.1 us.ad.lgsmartad.com
+127.0.0.1 lgad.cjpowercast.com
+127.0.0.1 yieldmanager.edgesuite.net
+127.0.0.1 us.info.lgsmartad.com
